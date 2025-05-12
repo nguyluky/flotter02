@@ -1,0 +1,14 @@
+
+// đồng bộ dữ liệu từ git -> máy
+git clone 
+// thêm file để chuẩn bị commit (comment)
+git add .
+// thêm comment
+git commit -m "comment"
+// đồng bộ du liệu từ máy -> git
+git push
+
+
+// config email and username
+git config --global user.name "name"
+git config --global user.email "email"
